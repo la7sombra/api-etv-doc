@@ -147,7 +147,7 @@ Content-Length: ...
 ### Body
 > Deberá estar presente en el cuerpo de la petición en formato Json de tipo Array bajo la siguiente definición como objeto que tiene estos atributos con sus tipos:
 
-```json
+```
 [{
 		etv: string;
 
